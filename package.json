@@ -1,0 +1,25 @@
+{
+  "name": "@blunck/http",
+  "version": "0.1.0",
+  "description": "Simple http requests on top of axios",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexblunck/http.git"
+  },
+  "keywords": [
+    "http",
+    "axios",
+    "jwt"
+  ],
+  "author": "Alexander Blunck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexblunck/http/issues"
+  },
+  "homepage": "https://github.com/alexblunck/http#readme",
+  "dependencies": {
+    "axios": "^0.17.1"
+  }
+}
